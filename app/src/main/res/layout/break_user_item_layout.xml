@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvScheduleTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:layout_weight="1"
+        android:background="@color/frnds_break_divider_color"
+        android:gravity="center"
+        android:paddingBottom="@dimen/_8sdp"
+        android:paddingTop="@dimen/_8sdp"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/_13sdp"
+        android:textStyle="bold"
+        android:text="sdvsdsdv"
+        android:visibility="visible" />
+
+    <ViewSwitcher
+        android:id="@+id/viewSwitcherNoRecord"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_40sdp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="@dimen/_3sdp">
+
+            <LinearLayout
+                android:layout_width="0sp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tvUsername"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top"
+                    android:layout_marginLeft="@dimen/_5sdp"
+                    android:text="ssfs"
+                    android:textColor="@android:color/black"
+                    android:textSize="18sp"
+                    android:textStyle="normal" />
+
+                <TextView
+                    android:id="@+id/tvUserSchedule"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top"
+                    android:layout_marginLeft="@dimen/_5sdp"
+                    android:text="ssfs"
+                    android:textColor="@color/online_green"
+                    android:textSize="13sp"
+                    android:textStyle="normal" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tvSchedule"
+                android:layout_width="@dimen/_34sdp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="@dimen/_5sdp"
+                android:background="@drawable/rounded_corner_new_bluw"
+                android:gravity="center"
+                android:padding="@dimen/_3sdp"
+                android:text="@string/fa_clock_o"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/_18sdp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/tvCall"
+                android:layout_width="@dimen/_34sdp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="@dimen/_5sdp"
+                android:background="@drawable/rounded_corner_new_bluw"
+                android:gravity="center"
+                android:padding="@dimen/_3sdp"
+                android:text="@string/fa_phone"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/_18sdp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/tvMsg"
+                android:layout_width="@dimen/_34sdp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="@dimen/_5sdp"
+                android:background="@drawable/rounded_corner_new_bluw"
+                android:gravity="center"
+                android:padding="@dimen/_3sdp"
+                android:text="@string/fa_comments"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/_18sdp"
+                android:textStyle="normal" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tvNoFrinds"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textSize="@dimen/_14sdp"
+                android:paddingTop="@dimen/_12sdp"
+                android:paddingBottom="@dimen/_5sdp"
+                android:text="@string/no_friends_on_break_time"
+                android:textColor="@android:color/black" />
+
+        </LinearLayout>
+
+    </ViewSwitcher>
+</LinearLayout>

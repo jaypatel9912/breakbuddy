@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_schedule"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:background="@mipmap/ic_main_page_bg"
+    android:orientation="vertical"
+    tools:context="com.breakbuddy.UI.ScheduleActivity">
+
+    <TextView
+        android:id="@+id/tvScheduleTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_main"
+        android:layout_marginTop="@dimen/_3sdp"
+        android:layout_centerHorizontal="true"
+        android:text="@string/schedule_title2"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/_14sdp"
+        android:visibility="visible" />
+
+    <info.hoang8f.android.segmented.SegmentedGroup
+        xmlns:segmentedgroup="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/segmented2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/_10sdp"
+        android:layout_marginRight="@dimen/_10sdp"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/_10sdp"
+        segmentedgroup:sc_checked_text_color="@color/colorPrimary"
+        segmentedgroup:sc_tint_color="@android:color/white"
+        segmentedgroup:sc_border_width="2dp"
+        segmentedgroup:sc_corner_radius="@dimen/_3sdp">
+
+        <RadioButton
+            android:id="@+id/btnMon"
+            style="@style/RadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:checked="true"
+            android:text="@string/sch_monday" />
+
+        <RadioButton
+            android:id="@+id/btnTue"
+            style="@style/RadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/sch_tueday" />
+
+        <RadioButton
+            android:id="@+id/btnWed"
+            style="@style/RadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/sch_wedday" />
+
+        <RadioButton
+            android:id="@+id/btnThu"
+            style="@style/RadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/sch_thursday" />
+
+        <RadioButton
+            android:id="@+id/btnFri"
+            style="@style/RadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/sch_friday" />
+
+        <RadioButton
+            android:id="@+id/btnSat"
+            style="@style/RadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/sch_satday" />
+
+        <RadioButton
+            android:id="@+id/btnSun"
+            style="@style/RadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/sch_sunday" />
+
+    </info.hoang8f.android.segmented.SegmentedGroup>
+
+    <FrameLayout
+        android:id="@+id/fragment_switch"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

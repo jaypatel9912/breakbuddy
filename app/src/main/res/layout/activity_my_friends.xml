@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_my_friends"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical"
+    tools:context="com.breakbuddy.UI.MyFriendsActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/search_bg"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/_6sdp"
+        android:paddingLeft="@dimen/_8sdp"
+        android:paddingRight="@dimen/_8sdp"
+        android:paddingTop="@dimen/_6sdp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rounded_corner_edittext_login"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/_2sdp"
+            android:paddingRight="@dimen/_3sdp">
+
+            <EditText
+                android:id="@+id/edSearch"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_27sdp"
+                android:background="@android:color/transparent"
+                android:hint="@string/search"
+                android:imeOptions="actionNext"
+                android:inputType="textWebEmailAddress"
+                android:lines="1"
+                android:nextFocusDown="@+id/edPassword"
+                android:paddingLeft="@dimen/_8sdp"
+                android:textColor="@android:color/black"
+                android:textColorHint="@color/mainPageBg2"
+                android:textSize="@dimen/_12sdp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/new_bg_blank">
+
+        <TextView
+            android:id="@+id/tvNoFriends"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/no_friends"
+            android:textSize="@dimen/_15sdp"
+            android:visibility="gone" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rcMyFriends"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/_10sdp" />
+
+        <QuickScroll.FastScroller
+            android:id="@+id/fastscroll"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:orientation="vertical"
+            app:fastscroll__bubbleColor="@color/colorPrimary"
+            app:fastscroll__handleColor="@android:color/white" />
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <inset android:insetTop="2dp">
+            <selector>
+                <item android:state_checked="false">
+                    <shape android:shape="rectangle">
+                        <corners android:radius="99dp" />
+                        <stroke
+                            android:width="1dp"
+                            android:color="@color/light_gray_end_time" />
+                        <solid android:color="@android:color/transparent" />
+                    </shape>
+                </item>
+
+                <item android:state_checked="true">
+                    <shape android:shape="rectangle">
+                        <corners android:radius="99dp" />
+                        <solid android:color="@color/switch_on_color" />
+                    </shape>
+                </item>
+            </selector>
+        </inset>
+    </item>
+</layer-list>
+
+    <!--<?xml version="1.0" encoding="utf-8"?>--><!--<layer-list xmlns:android="http://schemas.android.com/apk/res/android">--><!--<item android:state_checked="true">--><!--<shape>--><!--<gradient--><!--android:angle="45"--><!--android:endColor="#00adee"--><!--android:startColor="#0078a5" />--><!--<solid android:color="@color/primaryColorDark" />--><!--<corners android:radius="99dp" />--><!--</shape>--><!--</item>--><!--<item android:top="2.5dp">--><!--<shape>--><!--<solid android:color="@color/gray_userpage_hover" />--><!--<corners android:radius="99dp" />--><!--<stroke--><!--android:width="0dp"--><!--android:color="@android:color/holo_blue_dark" />--><!--</shape>--><!--</item>-->
+
+    <!--</layer-list>-->

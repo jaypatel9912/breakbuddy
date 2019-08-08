@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0754B3</color>
+    <color name="colorPrimaryDark">#0754B3</color>
+    <color name="colorAccent">#1775F3</color>
+    <color name="splashStatuscolor">#999999</color>
+    <color name="mainPageBg">#aaaaaa</color>
+    <color name="mainPageBg2">#c9c9c9</color>
+    <color name="mainBtnColor">#555555</color>
+    <color name="spinnerbgColor">#e3e3e3</color>
+    <color name="userAccountGray">#939393</color>
+    <color name="login_page_bg">#F3F3F3</color>
+    <color name="light_gray_end_time">#E5E5E5</color>
+    <color name="light_gray_drop_down">#C8C8C8</color>
+    <color name="main_bg">#565656</color>
+    <color name="main_bg2">#F4F4F4</color>
+    <color name="sch_list_gr1">#B3DFF9</color>
+    <color name="sch_list_gr2">#5A5A5A</color>
+    <color name="break_user_header">#7E7E7E</color>
+
+
+
+    <color name="tedbottompicker_camera">#000</color>
+    <color name="tedbottompicker_gallery">#ccc</color>
+
+
+    <color name="spark_primary_color">#FFFFC107</color>
+    <color name="spark_secondary_color">#FFFF5722</color>
+    <color name="spark_image_tint">#00000000</color>
+
+    <color name="float_transparent">#00000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="trans_white">#80ffffff</color>
+    <color name="trans_black">#80000000</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    <color name="text_color">#575757</color>
+    <color name="material_blue_grey_80">#ff37474f</color>
+    <color name="material_blue_grey_90">#ff263238</color>
+    <color name="material_blue_grey_95">#ff21272b</color>
+    <color name="material_deep_teal_20">#ff80cbc4</color>
+    <color name="material_deep_teal_50">#ff009688</color>
+    <color name="info_blue">#1775F3</color>
+    <color name="default_header_color">#445566</color>
+    <color name="time_color">#404040</color>
+    <color name="trash_color">#272727</color>
+    <color name="added_me_count_color">#D41D08</color>
+    <color name="switch_on_color">#4AD862</color>
+
+    <color name="added_Me_green_accept">#229425</color>
+    <color name="added_Me_red_cancel">#FE2628</color>
+    <color name="ll_bg_blue">#803AABF9</color>
+    <color name="header_index_color">#D8EBEF</color>
+    <color name="new_bg_blank">#EFFFFF</color>
+    <color name="search_bg">#67A3DB</color>
+    <color name="main_dialog_bg">#4249B0</color>
+    <color name="main_dialog_ll_bg">#506DDB</color>
+    <color name="main_dialog_ll_bg_alpha">#9CBFFF</color>
+    <color name="other_main_blue_bg">#015DD0</color>
+    <color name="schedule_select_color">#A7CAE0</color>
+
+    <color name="frnds_break_divider_color">#70C4FA</color>
+    <color name="login_txt_color">#253E68</color>
+    <color name="login_register_color_btn">#0158C4</color>
+    <color name="fp_bg_color_btn">#40489D</color>
+    <color name="register_bg_color">#4680ED</color>
+    <color name="register_bg_color2">#78BBFF</color>
+    <color name="online_green">#00B100</color>
+</resources>

@@ -1,0 +1,334 @@
+<resources>
+    <string name="app_name">BreakBuddy</string>
+    <string name="app_name2">breakbuddy</string>
+    <string name="server_error">Server error</string>
+    <string name="network_error">Limited or no internet connectivity. Please try again.</string>
+
+    <string-array name="schedule_list">
+        <item>7:00 AM</item>
+        <item>7:15 AM</item>
+        <item>7:30 AM</item>
+        <item>7:45 AM</item>
+        <item>8:00 AM</item>
+        <item>8:15 AM</item>
+        <item>8:30 AM</item>
+        <item>8:45 AM</item>
+        <item>9:00 AM</item>
+        <item>9:15 AM</item>
+        <item>9:30 AM</item>
+        <item>9:45 AM</item>
+        <item>10:00 AM</item>
+        <item>10:15 AM</item>
+        <item>10:30 AM</item>
+        <item>10:45 AM</item>
+        <item>11:00 AM</item>
+        <item>11:15 AM</item>
+        <item>11:30 AM</item>
+        <item>11:45 AM</item>
+        <item>12:00 PM</item>
+        <item>12:15 PM</item>
+        <item>12:30 PM</item>
+        <item>12:45 PM</item>
+        <item>1:00 PM</item>
+        <item>1:15 PM</item>
+        <item>1:30 PM</item>
+        <item>1:45 PM</item>
+        <item>2:00 PM</item>
+        <item>2:15 PM</item>
+        <item>2:30 PM</item>
+        <item>2:45 PM</item>
+        <item>3:00 PM</item>
+        <item>3:15 PM</item>
+        <item>3:30 PM</item>
+        <item>3:45 PM</item>
+        <item>4:00 PM</item>
+        <item>4:15 PM</item>
+        <item>4:30 PM</item>
+        <item>4:45 PM</item>
+        <item>5:00 PM</item>
+        <item>5:15 PM</item>
+        <item>5:30 PM</item>
+        <item>5:45 PM</item>
+        <item>6:00 PM</item>
+        <item>6:15 PM</item>
+        <item>6:30 PM</item>
+        <item>6:45 PM</item>
+        <item>7:00 PM</item>
+        <item>7:15 PM</item>
+        <item>7:30 PM</item>
+        <item>7:45 PM</item>
+        <item>8:00 PM</item>
+        <item>8:15 PM</item>
+        <item>8:30 PM</item>
+        <item>8:45 PM</item>
+        <item>9:00 PM</item>
+        <item>9:15 PM</item>
+        <item>9:30 PM</item>
+        <item>9:45 PM</item>
+        <item>10:00 PM</item>
+        <item>10:15 PM</item>
+        <item>10:30 PM</item>
+        <item>10:45 PM</item>
+        <item>11:00 PM</item>
+        <item>11:15 PM</item>
+        <item>11:30 PM</item>
+        <item>11:45 PM</item>
+        <item>12:00 AM</item>
+    </string-array>
+
+    <string-array name="schedule_list2">
+        <item>N/A</item>
+        <item>7:00 AM</item>
+        <item>7:15 AM</item>
+        <item>7:30 AM</item>
+        <item>7:45 AM</item>
+        <item>8:00 AM</item>
+        <item>8:15 AM</item>
+        <item>8:30 AM</item>
+        <item>8:45 AM</item>
+        <item>9:00 AM</item>
+        <item>9:15 AM</item>
+        <item>9:30 AM</item>
+        <item>9:45 AM</item>
+        <item>10:00 AM</item>
+        <item>10:15 AM</item>
+        <item>10:30 AM</item>
+        <item>10:45 AM</item>
+        <item>11:00 AM</item>
+        <item>11:15 AM</item>
+        <item>11:30 AM</item>
+        <item>11:45 AM</item>
+        <item>12:00 PM</item>
+        <item>12:15 PM</item>
+        <item>12:30 PM</item>
+        <item>12:45 PM</item>
+        <item>1:00 PM</item>
+        <item>1:15 PM</item>
+        <item>1:30 PM</item>
+        <item>1:45 PM</item>
+        <item>2:00 PM</item>
+        <item>2:15 PM</item>
+        <item>2:30 PM</item>
+        <item>2:45 PM</item>
+        <item>3:00 PM</item>
+        <item>3:15 PM</item>
+        <item>3:30 PM</item>
+        <item>3:45 PM</item>
+        <item>4:00 PM</item>
+        <item>4:15 PM</item>
+        <item>4:30 PM</item>
+        <item>4:45 PM</item>
+        <item>5:00 PM</item>
+        <item>5:15 PM</item>
+        <item>5:30 PM</item>
+        <item>5:45 PM</item>
+        <item>6:00 PM</item>
+        <item>6:15 PM</item>
+        <item>6:30 PM</item>
+        <item>6:45 PM</item>
+        <item>7:00 PM</item>
+        <item>7:15 PM</item>
+        <item>7:30 PM</item>
+        <item>7:45 PM</item>
+        <item>8:00 PM</item>
+        <item>8:15 PM</item>
+        <item>8:30 PM</item>
+        <item>8:45 PM</item>
+        <item>9:00 PM</item>
+        <item>9:15 PM</item>
+        <item>9:30 PM</item>
+        <item>9:45 PM</item>
+        <item>10:00 PM</item>
+        <item>10:15 PM</item>
+        <item>10:30 PM</item>
+        <item>10:45 PM</item>
+        <item>11:00 PM</item>
+        <item>11:15 PM</item>
+        <item>11:30 PM</item>
+        <item>11:45 PM</item>
+        <item>12:00 AM</item>
+    </string-array>
+
+    <string name="login_sub_title">All your friends\' breaks. \nAll in one place.</string>
+
+    <string name="login_hint_email">Email address</string>
+    <string name="login_hint_password">Password</string>
+    <string name="email">Email</string>
+    <string name="old_email">Current Email Address</string>
+    <string name="new_email">New Email Address</string>
+    <string name="confirm_new_email">Confirm new email address</string>
+
+    <string name="old_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm New Password</string>
+
+    <string name="login_login">LOGIN</string>
+    <string name="login_signup">REGISTER</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="change_username">Change Email Address</string>
+    <string name="login_fp">FORGOT PASSWORD</string>
+    <string name="continue_fp">Continue</string>
+    <string name="cancel">Cancel</string>
+    <string name="veri_email_send">Verification email sent successfully.</string>
+    <string name="login">Login</string>
+    <string name="change">Change</string>
+    <string name="add">Add</string>
+    <string name="added">Added</string>
+    <string name="req_sent">Pending</string>
+    <string name="req_accept">Accept</string>
+    <string name="req_reject">Reject</string>
+    <string name="invite">Invite</string>
+    <string name="login_or">OR</string>
+    <string name="resend_main">Resend Email</string>
+
+    <string name="activation_msg">You now have %1$s day(s) to confirm your email address via the link sent to your email. This email may be in your spam folder.</string>
+    <string name="passwor_reset_done">Password reset instructions have been sent to your email address.</string>
+    <string name="chk_mail">Please check your email inbox. This email may be in your spam folder.</string>
+    <string name="fail_login">Login failed</string>
+    <string name="fail_login_msg">Your email address and/or password is incorrect</string>
+
+    <string name="verify_account_email">Please verify your account via Email</string>
+
+    <string name="register_title">Register</string>
+    <string name="hint1">FIrst Name</string>
+    <string name="hint2">Last Name</string>
+    <string name="hint3">Email Address</string>
+    <string name="hint4">Password</string>
+    <string name="hint5">Confirm Pasword</string>
+    <string name="hint6">Phone number</string>
+    <string name="submit_continue">Continue</string>
+    <string name="password_hint">Passwords must be a minimum of 6 characters including at least 1 uppercase letter and 1 number</string>
+    <string name="error_fname">Please enter your firstname</string>
+    <string name="error_lname">Please enter your lastname</string>
+    <string name="error_email">Please enter a valid email address</string>
+    <string name="error_password">Please enter a valid password</string>
+    <string name="error_old_password">Please enter correct Old Password</string>
+    <string name="error_old_new_password">New password cannot match the current password</string>
+    <string name="error_new_confirm_password">New passwords do not match</string>
+    <string name="error_cpassword">Please confirm your password</string>
+    <string name="error_cpassword2">Confirm passwords do not match</string>
+    <string name="error_phoneno">Please enter a valid phone number</string>
+
+    <string name="opt_cp">Change Password</string>
+    <string name="opt_cemail">Change Email</string>
+    <string name="opt_logout">Logout</string>
+    <string name="opt_contactUs">Contact Us</string>
+
+    <string name="main_added_me">Added Me</string>
+    <string name="main_add_frnds">Add Friends</string>
+    <string name="main_my_frnds">My Friends</string>
+    <string name="main_edit_schedule">Edit Break Schedule</string>
+    <string name="main_working_days">Working Days</string>
+    <string name="main_woeekly_schedule">Weekly Schedule</string>
+    <string name="friends_share_break">Friends who share your breaks on:</string>
+
+    <string name="main_today">Today</string>
+    <string name="main_monday">Monday</string>
+    <string name="main_tueday">Tuesday</string>
+    <string name="main_wedday">Wednesday</string>
+    <string name="main_thursday">Thursday</string>
+    <string name="main_friday">Friday</string>
+    <string name="main_satday">Saturday</string>
+    <string name="main_sunday">Sunday</string>
+
+    <string name="sch_monday">Mon</string>
+    <string name="sch_tueday">Tue</string>
+    <string name="sch_wedday">Wed</string>
+    <string name="sch_thursday">Thu</string>
+    <string name="sch_friday">Fri</string>
+    <string name="sch_satday">Sat</string>
+    <string name="sch_sunday">Sun</string>
+
+    <string name="pass_change_title">Password changed successfully.</string>
+    <string name="email_change_title">Email changed successfully.</string>
+    <string name="pass_change_msg">Please login using your new password.</string>
+    <string name="email_change_msg">Please login using your new email address.</string>
+
+    <string name="enter_email">Please enter your email</string>
+    <string name="enter_email_valid">Please enter a valid email address</string>
+    <string name="enter_email_friends">Please enter your friend\'s email address.</string>
+    <string name="enter_new_email">Please enter your new email address</string>
+    <string name="enter_new_email_valid">Please enter a valid new email address</string>
+    <string name="enter_old_new_email">New email address cannot match the current email address</string>
+
+    <string name="enter_valid_confirm_email">Confirmed email address does not match the new email address</string>
+    <string name="enter_confirm_email_valid">Please enter valid confirm email address</string>
+    <string name="enter_email_valid2">Please enter your current email address</string>
+
+
+    <string name="main_home_text">Home</string>
+
+    <!--Schedule-->
+    <string name="schedule_title2">Please select your break times.</string>
+    <string name="schedule_title">Break Schedule</string>
+    <string name="schedule_sndingAt">Ending At: </string>
+    <string name="sc_time">Time</string>
+    <string name="save_sc">SAVE AND CONTINUE</string>
+    <string name="select_end_time">Select end time</string>
+    <string name="select_country">Select Country</string>
+
+    <string name="break_time_details">Break Time Details</string>
+    <string name="add_frnd_by">Add friends by:</string>
+    <string name="add_frnd_by_contact">Contact List</string>
+    <string name="add_frnd_by_email">Email Address</string>
+    <string name="add_frnd_by_email2">Email address</string>
+    <string name="add_via_frnd_by_email">Add via email address</string>
+    <string name="no_contacts">No contacts found. Please try again.</string>
+    <string name="no_friends">No friends found. Please try again.</string>
+    <string name="add_frnds">Add Friends</string>
+    <string name="my_frnds">My Friends</string>
+    <string name="added_me">Added Me</string>
+    <string name="search">Search</string>
+    <string name="online">Available</string>
+    <string name="no_data">No data found.</string>
+
+    <string name="bb_my_contact">BreakBuddies In My Contacts</string>
+    <string name="add_by_phone_no">Invite to BreakBuddy</string>
+
+
+    <string name="add_by_email_done">You have successfully sent this user a friend request.</string>
+    <string name="add_by_email_friend_not_using_app">Sorry, the email address you have entered is not registered on BreakBuddy.</string>
+    <string name="if_delete_user">Are you sure you want to delete this user?</string>
+
+    <string name="hide_break_schedule">Hide my break schedule</string>
+    <string name="set_as_on_break">Appear as on break</string>
+    <string name="friends_on_break">Friends who are currently on break</string>
+
+    <string name="break_schedule_saved">Your break schedule has been  successfully saved.</string>
+
+    <string name="friends_curr_on_break_now">Friends who are currently on break</string>
+    <string name="no_schedules">No break schedules found. Please try again.</string>
+    <string name="no_friends_on_break">No friends are currently on break.</string>
+
+    <string name="failed_choice_input">Choice changing fails.</string>
+
+    <string name="ending_at_time">Ending at %1$s</string>
+
+
+    <string name="no_friends_ending_at_time">No friends are ending at this time</string>
+    <string name="no_friends_on_break_time">No friends are on break at this time</string>
+    <string name="bb_account_deactivated">Your account has been deactivated.</string>
+    <string name="no_friends_requests">You have no friend requests at this time.</string>
+
+    <string name="tnc">Terms and conditions</string>
+    <string name="tnc1">By registering, you have read and agreed to the\u0020</string>
+    <string name="tnc2">Terms of Use</string>
+
+    <string name="phone_verift">Verify Phone Number</string>
+    <string name="enter_otp">Enter Verification Code</string>
+    <string name="verify_btn">Verify</string>
+    <string name="resend_otp">Resend Verification Code</string>
+    <string name="invalid_otp">Please enter the verification code that was sent to your phone number.</string>
+    <string name="invalid_otp2">Please enter a valid verification code that was sent to your phone number.</string>
+    <string name="invalid_otp3">You need to verify your phone number to continue using BreakBuddy.</string>
+    <string name="conf_details">Confirm your details</string>
+    <string name="conf_details1">Email : %1$s \nPhone Number : %2$s</string>
+
+    <string name="verify_now">Verify Now</string>
+    <string name="acc_deactive_new_msg">You need to confirm your email address via the link sent to your email. This email may be in your spam folder.</string>
+    <string name="otp_limit_reach">Maximum limit to send OTP reached</string>
+    <string name="back_press_exit">Press back again to exit</string>
+
+</resources>
+

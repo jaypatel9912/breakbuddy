@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/com.intuit.sdp/sdp-android/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6b63d873d0f3394ace8b6a7d9aa194816c6253b4">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/com.intuit.sdp-sdp-android-1.0.3_c79752a37e505bdef5c85533d13b55753211b1c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/com.timehop.stickyheadersrecyclerview/library/0.4.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="23bbdaadbcb0f011e809e07ae0a91e24fa55365d">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/com.timehop.stickyheadersrecyclerview-library-0.4.3_4c8912fec2c7e9b6ec86f14cbe917ee20ce45395.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_4c3d289d3aa2f8b3a1ee96dd28767f143033e918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_7d4dd710908b15c7b8c2f2e5a8ab284ea2201fc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_5bd600d8a4102ced0ed4864ca8f0f4a1f926f5b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_37356d9ba415464dcfdb0cf511c00f0537300c94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_537a545dab2a045bc995e9a3114be2a578c0866d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.14/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/io.fabric.sdk.android-fabric-1.3.14_2ddb8816c4b4f1c1c933ccf3bd6509a7635350b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/com.kyleduo.switchbutton/library/1.4.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="51df8068d5bc0e16dd932359840c6c63b908502d">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/com.kyleduo.switchbutton-library-1.4.1_fe0e1c0b8ceeb99a16c06e32e9a8d4e711be3ddc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/info.hoang8f/android-segmented/1.0.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="692a913dff3246e0cc5369c2508f5970ecfeca01">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/info.hoang8f-android-segmented-1.0.6_6aa91bc5f769f13caebf65033665d853bb0b9c9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/libphonenumber/7.1.1/cdb737e7932c39026fb5d061c5300370d9a4ce8/libphonenumber-7.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0cdb737e7932c39026fb5d061c5300370d9a4ce8">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/libphonenumber-7.1.1_e27b86e47d1f2e392a277efc362007cfd8e9b718.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.14/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7ff77725723167163d69439e3fd077bd0899babf">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-crashlytics-core-2.3.14_c3df6a2296e20dbdd203a9b644ed6d980267c265.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.6.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="02cc9f2e5899415add52bc716602b6b38e7eeb99">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-crashlytics-2.6.5_874fde9ebc8733902a6dc9cab6d55d57a3687b9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/gson-2.4_04031c229755cc2906c75ab87bae7945de08795f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_73094c1b7dbe8029cf15f81a860f52bae9969be1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_5559dd3092adb0b9727fcda5a7203d4a3bfc6afa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_c74ecc662c5c4371d09212dcd2c5cc081a5ffa0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_2b1bb4980943782503a28d5601096e161640ce62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_2c9e6fefcf25e0d896bc5a87a4d457531b9d5766.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.10/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ed6b455e3dd7bbf1ff31f8df0b41e2f0d87f3ace">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-answers-1.3.10_25c2b2a127338e28ad0af2ffb7da06d8388dc3aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_fca767f56ecd3535fc86573edda8d58b190e11c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_2b151a31aa4568a657cf15eb99fafeed59d52aa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b42cf2134829f715edfa2adaf0ee246631322dba">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-beta-1.2.2_3bc28252d103eb22e3cfb68a18514c3430b46ae5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/com.daimajia.swipelayout/library/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e84b30031d4bab89a2b5c45af4eb9213828524dd">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/com.daimajia.swipelayout-library-1.2.0_3ef79fbe21d4cacecd5abbfe525bdbc4c91ddc1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_e34d388ddc02cc7ab3c15e0bb70d31ae68c93067.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_56f9db42262b179f605f518eeba3b573ff4869ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/om/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/om/Documents/Project/BreakBuddy/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_8e8bc9119eb2a6d064903f030b2cc5ad9a378f83.jar" />
+    </item>
+
+</items>
