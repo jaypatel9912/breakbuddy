@@ -17,8 +17,6 @@ public class  Constants {
     public static final String MM_STATUS_CODE_SUCCESS = "200";
     public static final String MM_STATUS_CODE_PHONE_NOT_VERIFIED = "400";
 
-//    public static final String Base_url = "https://www.breakbuddyapp.com/api/index.php/v3/";
-    public static final String Base_url = "https://www.breakbuddyapp.com/api_staging/index.php/v3/";
 
     // api names
     public static final String API_SIGNUP = "signup";
